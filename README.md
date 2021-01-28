@@ -1,2 +1,5 @@
 # VulkanTest
-test 4 vk funs
+______________________
+======================
+
+testing some vulkan functions
